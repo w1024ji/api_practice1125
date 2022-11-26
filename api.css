@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#box{
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    height: 200px;
+}
+span{
+    margin: 0px;
+}
+#submit{
+    margin-top: 10px;
+    background-color: white;
+    border-color: white;
+}
+#time{
+    width: 101px;
+    height: 17px;
+}
+#date{
+    width: 101px;
+    height: 17px;
+}
